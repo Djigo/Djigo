@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Djigo
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Front-End Developer
+- 🌱 I’m currently working with Vue.js
+- 💞️ I’m looking to collaborate on Vue.js projects
 - 📫 How to reach me ...
 
 <!---
